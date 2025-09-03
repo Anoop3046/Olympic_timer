@@ -1,0 +1,17 @@
+#last{
+    display: flex;
+    margin-left: 7.3rem;
+    justify-content: space-between;
+    width: 250px;
+
+}
+
+.hour > h2{
+    font-size: 3rem;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+
+.hour > p{
+    margin-top: 1rem;
+}
